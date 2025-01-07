@@ -19,13 +19,15 @@ SQL, and exploring deep learning models with TensorFlow.
 ### Tech Toolbox 🛠️
 - **Languages:** Python, SQL, JavaScript, C#
 - **Database:** MSSQL, DBeaver
-- **Web Development:** Django
+- **Web Development:** Django, Flask, Streamlit
 - **Mobile App Development:** React Native
 - **Machine Learning:** Scikit-learn,TensorFlow, Keras, Scipy
 - **Data Analysis:** Pandas, NumPy
 - **Data Visualization:** Matplotlib, Seaborn
 - **Tools:** Docker, Git, OpenRefine, Postman, Expo
-- **Specialties:** LLMs, HuggingFace, Generative AI, NLP, Search, Project Management, MS Office Suite
+- **Design:** Figma, Canva
+- **Interests:** LLMs, Generative AI, NLP
+- **Other Skills:** HuggingFace, Search, Project Management, MS Office Suite
 
 ### Education 🎓
 - **Bachelors in Computer Engineering**,  Izmir Bakircay University
